@@ -1,4 +1,4 @@
-<h1 align="center">I'm <a href="https://t.me/@mturlaev13" target="_blank">Magomed</a></h1>
+<h1 align="center">I'm <a href="https://t.me/mturlaev13" target="_blank">Magomed</a></h1>
 
 
 
@@ -17,6 +17,6 @@
 
 ## contacts:
    
-   [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/@mturlaev13) 
+   [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/mturlaev13) 
    
   
