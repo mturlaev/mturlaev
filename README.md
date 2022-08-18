@@ -1,4 +1,4 @@
-<h1 align="center">I'm <a href="https://t.me/@mturlaev13" target="_blank">Tamerlan</a></h1>
+<h1 align="center">I'm <a href="https://t.me/@mturlaev13" target="_blank">Magomed</a></h1>
 
 
 
