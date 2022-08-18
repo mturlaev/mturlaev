@@ -14,6 +14,16 @@
 #### actively learning:
    ![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
 
+***
+## Мои проекты:
+
+
+* #### Сайт поиска вакансий на подобие superJob
+
+[client-code](https://github.com/mturlaev/frontend-serchWork.git)
+
+[backend-code](https://github.com/mturlaev/backend-SearchWork.git)
+
 
 ## contacts:
    
